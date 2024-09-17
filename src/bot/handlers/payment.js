@@ -17,7 +17,7 @@ Full version of the guide.
 💰 Tap to earn
 Tap the screen and collect coins.
 
-⛏ Mine
+⛏ Build
 Upgrade cards that will give you passive income opportunities.
 
 ⏰ Profit per hour
@@ -27,7 +27,7 @@ Then you need to log in to the game again.
 📈 LVL
 The more coins you have on your balance, the higher the level of your exchange is and the faster you can earn more coins.
 
-👥 Friends
+👥 Alliance
 Invite your friends and you’ll get bonuses. Help a friend move to the next leagues and you'll get even more bonuses.
 
 🪙 Token listing
